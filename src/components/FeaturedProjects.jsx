@@ -8,21 +8,21 @@ const Projects = [
         description: "A modern real estate web app for browsing, searching, and listing properties, featuring advanced filters and a seamless user experience.",
         image: "/Image/estate-hub.jpeg",
         tech: ["React", "Tailwind CSS", "React-Icons"],
-        link: { demo: "#", github: "https://github.com/Greatjohn01/EstateHub.git" }
+        link: { demo: "https://estate-hub-psi.vercel.app/", github: "https://github.com/Greatjohn01/EstateHub.git" }
     },
     {
         title: "Software Developers App",
-        description: "A robust dashboard for software teams to manage projects, track progress, and collaborate efficiently, built with React and Express.",
+        description: "co-developed a robust dashboard for software teams to manage projects, track progress, and collaborate efficiently, built with React and Express.",
         image: "/Image/dev-connect.jpeg",
         tech: ["React", "JavaScript", "Tailwind CSS"],
-        link: { demo: "#", github: "#" }
+        link: { demo: "#", github: "https://github.com/Tontoncharlie/DevConnect.git" }
     },
     {
         title: "Book Store App",
         description: "An online bookstore platform for discovering, reviewing, and purchasing books, with a clean UI and fast search capabilities.",
         tech: ["React", "Next.js", "JavaScript", "Tailwind CSS", "React-Icons"],
         image: "/Image/bookstore.jpg",
-        link: { demo: "#", github: "#" }
+        link: { demo: "https://book-store-6d77.vercel.app/", github: "https://github.com/Greatjohn01/BookStore.git" }
     }
 ];
 
